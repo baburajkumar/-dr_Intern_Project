@@ -1,0 +1,72 @@
+ nav{
+    display: flex;
+    align-items: left;
+    justify-content: space-between;
+    background: rgb(5, 5, 39);
+    padding: 20px 10px;
+
+
+}
+button{
+    padding: 0;
+    border: none;
+    background: none;
+} 
+h1{
+    color:rgba(16,148,255,255);
+    text-align: left;
+    padding-right: 2%;
+    font-size:xx-large;  
+    
+ }
+ 
+.search input[type=text]{
+    float: right;
+    padding: 10px;
+    border: none;
+    margin-left:80%;
+    font-size: 17px;
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+}
+.mt-1{
+    margin-top: -0.25rem !important;
+}*/
+.light{
+    color: aqua;
+}
+.ArrowDownUp{
+    color: black;
+}
+.ArrowDownUp:hover{
+    color: rgb(0, 106, 255);
+}
+.n01 {
+    border-bottom: 5px solid #ddd;
+  }
+  
+.dot{
+    font-size:small;
+    color: rgb(255, 0, 0);
+    text-align: left;
+   
+    font-weight:600;
+ }
+li
+{
+    list-style-type:none;
+} 
+ 
+.username{
+    text-align:left;
+}
+tbody{
+    text-align: left;
+}
+thead{
+    text-align: left;
+    font-size: large;
+}
